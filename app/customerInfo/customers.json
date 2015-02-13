@@ -1,6 +1,6 @@
 [
   { "customer_id":"1",
-    "first":"James",
+    "first":"James blah",
     "last":"Smith",
     "email":"james@gmail.com",
     "shipment_address":"456 Burton Drive",
@@ -57,6 +57,18 @@
     "fax":"867-098-5647",
     "active":"true"},
 
+  { "customer_id":"7",
+    "first":"Blah",
+    "last":"BlahBlah",
+    "company_name":"ACM",
+    "mail_city":"Phoenix",
+    "mail_state":"AZ",
+    "mail_country":"US",
+    "mail_zip":"90827",
+    "work_phone":"736-057-2564",
+    "mobile_phone":"756-867-0987",
+    "fax":"867-098-5647",
+    "active":"true"},
 
   { "customer_id":"6",
     "first":"Carol",
